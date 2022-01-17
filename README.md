@@ -7,7 +7,6 @@
 ## Ubuntu
 
 # Installation
-## Clone with next command:
 ### git clone https://github.com/ricaza81/inchape-challenge.git
 ### navigate in browser
 
