@@ -4,8 +4,8 @@
 
 # Stack (Bootstrap / HTML / CSS / JS )
 ## EC2 AWS >>> https://aws.amazon.com/
-## Bootstrap >>> https://getbootstrap.com/
-## Ubuntu
+### Bootstrap >>> https://getbootstrap.com/
+### Ubuntu
 
 # Installation
 ### git clone https://github.com/ricaza81/inchape-challenge.git
